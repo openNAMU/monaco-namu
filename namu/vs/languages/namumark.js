@@ -15,7 +15,7 @@
  * You should have received a copy of the GNU Affero General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
-export default function(monaco) {
+function opennamu_monaco_custom() {
     monaco.languages.register({
         id: 'namumark',
         aliases: [
